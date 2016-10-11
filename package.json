@@ -1,0 +1,27 @@
+{
+  "name": "webpack-walkthrough",
+  "version": "1.0.0",
+  "description": "this is a webpack walkthrough ",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.1.2",
+    "mocha-loader": "^1.0.0",
+    "webpack": "^1.13.2",
+    "webpack-dev-server": "^1.16.2"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karinamzalez/webpack.git"
+  },
+  "author": "karinamzalez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/karinamzalez/webpack/issues"
+  },
+  "homepage": "https://github.com/karinamzalez/webpack#readme"
+}
